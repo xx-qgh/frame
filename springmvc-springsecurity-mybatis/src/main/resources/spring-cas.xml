@@ -88,6 +88,7 @@
 	</security:user-service>
 	-->
 
+
 	<bean id="serviceProperties" class="org.springframework.security.cas.ServiceProperties">
          <!--[login/cas]是Spring Security 4.0后修改的地址、跟3.X版本完全不同、请勿修改-->
 		<property name="service" value="http://192.168.8.91:8080/frame/login/cas"/>
