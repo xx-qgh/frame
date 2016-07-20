@@ -1,4 +1,4 @@
-package org.frame.core;
+package org.frame.core; 
 
 /**
  * Hello world!
